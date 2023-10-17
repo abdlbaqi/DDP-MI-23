@@ -17,6 +17,6 @@ int main()
     }
 
     cout << "\n\n ................\n";
-    cout << "Anda kurang beruntung" << endl;
+    cout << " nt terus" << endl;
     cout << "kamu berusaha sebanyak" << counter << "kali" << endl;
 }
